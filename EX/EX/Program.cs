@@ -13,6 +13,7 @@ namespace EX
             member benny = new member("benny the butcher!");
             member Gunn = new member("Weast Side Gunn!");
             member Conway = new member("Conway the Machine!");
+            member Daringer = new member("Daringer!");
         }
     }
 }
